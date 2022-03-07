@@ -83,6 +83,10 @@ body {
 .buttons button.next:active {
   transform: scaleY(-1) translateY(8px);
 }
+
+a {
+   text-decoration:none;
+  }
 h1 {
   position: absolute;
   top: 50%;
